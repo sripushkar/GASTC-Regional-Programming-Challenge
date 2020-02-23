@@ -1,0 +1,13 @@
+Z:\Projects\C#\Programming Challenge\Programming Challenge\bin\Debug\Programming Challenge.exe.config
+Z:\Projects\C#\Programming Challenge\Programming Challenge\bin\Debug\Programming Challenge.exe
+Z:\Projects\C#\Programming Challenge\Programming Challenge\bin\Debug\Programming Challenge.pdb
+Z:\Projects\C#\Programming Challenge\Programming Challenge\obj\Debug\Programming Challenge.csprojAssemblyReference.cache
+Z:\Projects\C#\Programming Challenge\Programming Challenge\obj\Debug\Programming_Challenge.evenNumbers.resources
+Z:\Projects\C#\Programming Challenge\Programming Challenge\obj\Debug\Programming_Challenge.mainMenu.resources
+Z:\Projects\C#\Programming Challenge\Programming Challenge\obj\Debug\Programming_Challenge.Properties.Resources.resources
+Z:\Projects\C#\Programming Challenge\Programming Challenge\obj\Debug\Programming Challenge.csproj.GenerateResource.cache
+Z:\Projects\C#\Programming Challenge\Programming Challenge\obj\Debug\Programming Challenge.exe
+Z:\Projects\C#\Programming Challenge\Programming Challenge\obj\Debug\Programming Challenge.pdb
+Z:\Projects\C#\Programming Challenge\Programming Challenge\obj\Debug\Programming_Challenge.orderNumbers.resources
+Z:\Projects\C#\Programming Challenge\Programming Challenge\obj\Debug\Programming_Challenge.stringSearching.resources
+Z:\Projects\C#\Programming Challenge\Programming Challenge\obj\Debug\Programming_Challenge.telephoneConverter.resources
